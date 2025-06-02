@@ -1,4 +1,4 @@
-# Project: Iron Kaggle - ML stores sales prediction
+# Project: Iron Kaggle - Store sales prediction using Machine Learning
 
 <br />
 
